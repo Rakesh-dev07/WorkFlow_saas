@@ -1,4 +1,4 @@
-# 🚀 FlowDesk — Multi-Tenant SaaS Project Management System
+# 🚀 WorkFlow — Multi-Tenant SaaS Project Management System
 
 A full-stack MERN SaaS application that allows teams to manage projects, assign tasks, and collaborate with role-based access control in a multi-tenant environment.
 
